@@ -46,10 +46,10 @@ And below is an example of what a single song file, TRAABJL12903CDCF1A.json, loo
 6. `dwh.cfg` Contains necessay credentials to connect to AWS cluster 
 
 ### Schema
-!(Database ER diagram (crow's foot).png)
+![ER diagram](ER_diagram.png)
 
 ## Steps
-Run the scripts in the following order:
-`create_tables.py
+Run the scripts in the following order:  
+`create_tables.py  
 `etl.py`
 
